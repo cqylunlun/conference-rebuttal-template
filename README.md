@@ -1,6 +1,6 @@
 # Conference Rebuttal Template
 
-A clean and reusable LaTeX template for preparing **conference rebuttals** (also called **author responses**) in a clear and compact format.
+A clean and reusable LaTeX template for preparing **conference rebuttals** in a clear and compact format.
 
 This project is based on the **CVPR 2026 rebuttal template** and is intended as a lightweight starting point for researchers who want to:
 
@@ -13,7 +13,9 @@ This project is based on the **CVPR 2026 rebuttal template** and is intended as 
 
 Below is a quick preview of the compiled template.
 
-![Preview of the conference rebuttal template](./figures/pdf_file_thumbnail.png)
+<p align="center">
+  <img src="./figures/pdf_file_thumbnail.png" alt="Preview of the conference rebuttal template" width="500">
+</p>
 
 ## Features
 
@@ -57,7 +59,7 @@ If this template helps your workflow, a GitHub star or attribution in your own r
   year         = {2026},
   howpublished = {GitHub repository},
   note         = {Based on the CVPR 2026 rebuttal template},
-  url          = {https://github.com/<your-username>/conference-rebuttal-template}
+  url          = {https://github.com/cqylunlun/conference-rebuttal-template}
 }
 ```
 
