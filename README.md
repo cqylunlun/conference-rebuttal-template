@@ -28,11 +28,10 @@ Below is a quick preview of the compiled template.
 ```text
 conference-rebuttal-template/
 ├── README.md
-├── .gitignore
 ├── main.tex
+├── LICENSE
 ├── preamble.tex
 ├── cvpr.sty
-├── ieeenat_fullname.bst
 ├── figures/
 │   └── pdf_file_thumbnail.png
 └── sec/
@@ -49,7 +48,7 @@ conference-rebuttal-template/
 
 ## Citation
 
-If you find this template useful, please consider citing this repository:
+If this template helps your workflow, a GitHub star or attribution in your own repository is appreciated.
 
 ```bibtex
 @misc{conference_rebuttal_template_2026,
@@ -64,16 +63,4 @@ If you find this template useful, please consider citing this repository:
 
 ## Acknowledgment
 
-This template is adapted from the official **CVPR 2026 author kit** and rebuttal template provided by the CVPR organizers. We acknowledge and appreciate the original maintainers of the upstream template for making the formatting resources publicly available.
-
-## Notes and Upstream Reference
-
-- This repository is a reusable template, not an official conference release.
-- It is adapted from the official CVPR 2026 author kit and rebuttal template.
-- Official CVPR author kit: <https://github.com/cvpr-org/author-kit>
-- Official rebuttal template file in the upstream repository: <https://github.com/cvpr-org/author-kit/blob/main/rebuttal.tex>
-- CVPR 2026 author guidelines: <https://cvpr.thecvf.com/Conferences/2026/AuthorGuidelines>
-- Please verify the latest formatting and rebuttal rules of your target venue before submission.
-- If you use this template for non-CVPR venues, you may need to adjust page limits, font rules, and layout constraints.
-- Remove any paper-specific or personal information before publishing your own version.
-- The original formatting files (for example `cvpr.sty` and related assets) come from the upstream CVPR author kit. Please refer to the upstream repository and the latest conference guidelines for updates and original usage terms.
+This template is adapted from the official **[CVPR 2026 author kit](https://github.com/cvpr-org/author-kit)** and rebuttal template provided by the CVPR organizers.
